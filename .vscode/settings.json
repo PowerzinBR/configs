@@ -1,0 +1,34 @@
+{
+  "editor.lineHeight": 1.6,
+  "explorer.compactFolders": false,
+  "apc.font.family": "Inter",
+  "apc.stylesheet": {
+    ".monaco-hover-content": {
+      "font-size": "11px",
+      "font-weight": "regular",
+      "background-color": "rgba(0, 0, 0, 0.6)",
+      "-webkit-backdrop-filter": "blur(2px)",
+      "backdrop-filter": "blur(2px)"
+    }
+  },
+  "editor.fontFamily": "Hack Nerd Font",
+  "symbols.hidesExplorerArrows": false,
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "Monokai Pro",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "git.enableSmartCommit": true,
+  "workbench.sideBar.location": "right",
+  "explorer.confirmDragAndDrop": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "editor.scrollbar.verticalScrollbarSize": 2,
+  "editor.scrollbar.horizontalScrollbarSize": 4,
+  "tabnine.experimentalAutoImports": true,
+  "explorer.confirmDelete": false,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.cursorBlinking": "phase"
+}
